@@ -1,0 +1,298 @@
+{
+  "users": {
+    "6283111645175@s.whatsapp.net": {
+      "exp": 99999,
+      "limit": 9999999,
+      "lastclaim": 1612936652543
+    },
+    "6289652898494@s.whatsapp.net": {
+      "exp": 273,
+      "limit": 25,
+      "lastclaim": 0
+    },
+    "6289507104189@s.whatsapp.net": {
+      "exp": 7,
+      "limit": 25,
+      "lastclaim": 0
+    },
+    "628987045230@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 25,
+      "lastclaim": 0
+    },
+    "6281388317078@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 25,
+      "lastclaim": 0
+    },
+    "6285883444055@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 25,
+      "lastclaim": 0
+    },
+    "6282224015560@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 25,
+      "lastclaim": 0
+    },
+    "6282129648951@s.whatsapp.net": {
+      "exp": 2,
+      "limit": 25,
+      "lastclaim": 0
+    },
+    "6283192938729@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 25,
+      "lastclaim": 0
+    },
+    "6287873461171@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 25,
+      "lastclaim": 0
+    },
+    "6289530350469@s.whatsapp.net": {
+      "exp": 4,
+      "limit": 25,
+      "lastclaim": 0
+    },
+    "628973140032@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 25,
+      "lastclaim": 0
+    },
+    "6287875113241@s.whatsapp.net": {
+      "exp": 10,
+      "limit": 25,
+      "lastclaim": 0
+    },
+    "6282259160894@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 25,
+      "lastclaim": 0
+    },
+    "6289515472023@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 25,
+      "lastclaim": 0
+    },
+    "6283165841671@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 25,
+      "lastclaim": 0
+    },
+    "6282132281580@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 25,
+      "lastclaim": 0
+    },
+    "6282130551729@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 25,
+      "lastclaim": 0
+    },
+    "62895341907970@s.whatsapp.net": {
+      "exp": 11,
+      "limit": 25,
+      "lastclaim": 0
+    },
+    "6283834935878@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 25,
+      "lastclaim": 0
+    }
+  },
+  "groups": {},
+  "chats": {
+    "6283111645175@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "sWelcome": "",
+      "sBye": "",
+      "delete": true
+    },
+    "status@broadcast": {
+      "isBanned": false,
+      "welcome": false,
+      "sWelcome": "",
+      "sBye": "",
+      "delete": true
+    },
+    "6288235435804@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "sWelcome": "",
+      "sBye": "",
+      "delete": true
+    },
+    "6281936086429-1594734634@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "sWelcome": "",
+      "sBye": "",
+      "delete": true
+    },
+    "6287873461171@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "sWelcome": "",
+      "sBye": "",
+      "delete": true
+    },
+    "6289652898494@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "sWelcome": "",
+      "sBye": "",
+      "delete": true
+    },
+    "6289652898494-1612940237@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "sWelcome": "",
+      "sBye": "",
+      "delete": true
+    },
+    "6289671615568-1611553267@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "sWelcome": "",
+      "sBye": "",
+      "delete": true
+    },
+    "628812606583-1608547872@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "sWelcome": "",
+      "sBye": "",
+      "delete": true
+    }
+  },
+  "stats": {
+    "menu.js": {
+      "total": 14,
+      "success": 14,
+      "last": 1612944753961,
+      "lastSuccess": 1612944753961
+    },
+    "broadcastjadibot.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1612935882838,
+      "lastSuccess": 1612935882838
+    },
+    "creator.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1612940009424,
+      "lastSuccess": 1612940009424
+    },
+    "limit.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1612940987245,
+      "lastSuccess": 1612940987245
+    },
+    "daily.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1612936669053,
+      "lastSuccess": 1612936669053
+    },
+    "leaderboard.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1612936731978,
+      "lastSuccess": 1612936731978
+    },
+    "delete.js": {
+      "total": 3,
+      "success": 0,
+      "last": 1612936890585,
+      "lastSuccess": 0
+    },
+    "info.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1612937008615,
+      "lastSuccess": 1612937008615
+    },
+    "tutorial.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1612937072010,
+      "lastSuccess": 1612937072010
+    },
+    "odemote.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1612940420214,
+      "lastSuccess": 1612940420214
+    },
+    "setmenu.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1612941104881,
+      "lastSuccess": 1612941104881
+    },
+    "exp.js": {
+      "total": 6,
+      "success": 3,
+      "last": 1612941469880,
+      "lastSuccess": 1612941469880
+    },
+    "donasi.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1612941244861,
+      "lastSuccess": 1612941244861
+    },
+    "runningtext.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1612941453433,
+      "lastSuccess": 0
+    },
+    "update.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1612941499564,
+      "lastSuccess": 1612941499564
+    },
+    "opromote.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1612941530633,
+      "lastSuccess": 1612941530633
+    },
+    "getcode.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1612941578980,
+      "lastSuccess": 1612941578980
+    },
+    "jadibot.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1612941602557,
+      "lastSuccess": 1612941602557
+    },
+    "stopjadibot.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1612941734263,
+      "lastSuccess": 1612941734263
+    },
+    "okick.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1612941777178,
+      "lastSuccess": 1612941777178
+    },
+    "oadd.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1612941790782,
+      "lastSuccess": 1612941790782
+    }
+  }
+}
